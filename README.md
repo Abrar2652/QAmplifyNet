@@ -1,6 +1,7 @@
 # QAmplifyNet
 A Hybrid Quantum-Classical Neural Network for Supply Chain Backorder Prediction
 
+-------
 The code repository for the *Nature Scientific Reports* (2023) paper titled **"QAmplifyNet: Pushing the Boundaries of Supply Chain Backorder Prediction Using Interpretable Hybrid Quantum–Classical Neural Network"**.
 
 ![Visualization of proposed model](https://github.com/Abrar2652/QAmplifyNet/blob/main/QAmplifyNet/Proposed_framework.png)
@@ -9,7 +10,10 @@ The code repository for the *Nature Scientific Reports* (2023) paper titled **"Q
 Created and maintained by Md Abrar Jahin `<abrar.jahin.2652@gmail.com, md-jahin@oist.jp>`.
 
 -------
+## Benchmark Dataset
 
+[*"Can you predict product backorder?"* dataset](https://www.kaggle.com/datasets/gowthammiryala/back-order-prediction-dataset)
+-------
 ## Directory Tour
 
 Below is an illustration of the directory structure of QAmplifyNet.
