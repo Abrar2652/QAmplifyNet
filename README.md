@@ -10,6 +10,18 @@ The code repository for the *Nature Scientific Reports* (2023) paper titled **"Q
 Created and maintained by Md Abrar Jahin `<abrar.jahin.2652@gmail.com, md-jahin@oist.jp>`.
 
 -------
+QamplifyNet was benchmarked on the short version of the supply chain backorder dataset against a total of 19 models and achieved impressive performance over them:
+
+[1] 10 classical models
+
+[2] 3 classically stacked quantum ensembles
+
+[3] 5 quantum neural networks
+
+[4] 1 deep reinforcement learning model
+
+
+-------
 ## Benchmark Dataset
 
 [*"Can you predict product backorder?"* dataset](https://www.kaggle.com/datasets/gowthammiryala/back-order-prediction-dataset)
