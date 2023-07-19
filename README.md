@@ -41,13 +41,6 @@ Below is an illustration of the directory structure of QAmplifyNet.
     │   ├── 📄 model_architecture.png
     │   ├── 📄 model_summary.png
     │   ├── 📄 nn_roc_auc.png
-    ├── 📁 Adacost
-    │   📁 QAmplifyNet\Classical\Adacost
-    │   ├── 📄 ada_confusion_matrix.png
-    │   ├── 📄 ada_roc_auc.png
-    │   ├── 📄 best_params.png
-    │   ├── 📄 classification_report1.png
-    │   ├── 📄 classification_report2.png
     ├── 📁 Catboost
     │   📁 QAmplifyNet\Classical\Catboost
     │   ├── 📄 best_params.png
@@ -73,19 +66,13 @@ Below is an illustration of the directory structure of QAmplifyNet.
     │   ├── 📄 lgbm_confusion_matrix.png
     │   ├── 📄 lgbm_feature_imp.png
     │   ├── 📄 lgbm_roc_auc.png
-    ├── 📁 Logistic Regression
-    │   📁 QAmplifyNet\Classical\Logistic Regression
-    │   ├── 📄 best_params.png
-    │   ├── 📄 classification_report.png
-    │   ├── 📄 log_confusion_matrix.png
-    │   ├── 📄 log_roc_auc.png
-    ├── 📄 PR_10_classical.png
+    ├── 📄 PR_classical.png
     ├── 📁 RF
     │   📁 QAmplifyNet\Classical\RF
     │   ├── 📄 classification_report_best_params.png
     │   ├── 📄 rf_confusion_matrix.png
     │   ├── 📄 rf_roc_auc.png
-    ├── 📄 ROC_10_classical.png
+    ├── 📄 ROC_classical.png
     ├── 📁 SVM
     │   📁 QAmplifyNet\Classical\SVM
     │   ├── 📄 best_params.png
@@ -100,7 +87,7 @@ Below is an illustration of the directory structure of QAmplifyNet.
     │   ├── 📄 xgb_roc_auc.png
     │   ├── 📄 xgboost_feature_imp.png
     ├── 📄 classical_modelling_short_data.ipynb
-    ├── 📄 cm_10_classical.png
+    ├── 📄 cm_classical.png
     ├── 📄 data_distribution.png
 └── 📁 DDQN_RL
     📁 QAmplifyNet\DDQN_RL
@@ -146,10 +133,12 @@ Below is an illustration of the directory structure of QAmplifyNet.
     📁 QAmplifyNet\QAmplifyNet
     ├── 📁 3_dense_layers
     │   📁 QAmplifyNet\QAmplifyNet\3_dense_layers
+    │   ├── 📄 Comparison of True Positive, True Negative, False Positive, and False Negative Rates in Backorder Prediction Models.png
+    │   ├── 📄 Complete_circuit.png
+    │   ├── 📄 Complete_circuit_pennylane.png
     │   ├── 📄 PR_curve.png
     │   ├── 📄 QAmplifyNet.ipynb
     │   ├── 📄 ROC_curve.png
-    │   ├── 📄 StronglyEntanglingLayers.png
     │   ├── 📄 accuracy.png
     │   ├── 📄 classification_reports1.png
     │   ├── 📄 classification_reports2.png
@@ -167,7 +156,6 @@ Below is an illustration of the directory structure of QAmplifyNet.
     │   ├── 📄 shap_train_idx20.png
     │   ├── 📄 train_val_loss.png
     ├── 📄 Proposed_framework.png
-    ├── 📄 qml.drawio
 └── 📁 QEnsembles
     📁 QAmplifyNet\QEnsembles
     ├── 📁 LGBM_qSVM_as_base_LR_meta_stacking
@@ -275,7 +263,6 @@ Below is an illustration of the directory structure of QAmplifyNet.
     │   └── 📄 ry-cnot-vqc.ipynb
     │   └── 📄 train_val_accuracy.png
 └── 📄 README.md
-└── 📄 sc-ml-classical.ipynb
 
 ```
 
