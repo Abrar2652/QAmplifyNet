@@ -124,7 +124,7 @@ Below is an illustration of the directory structure of QAmplifyNet.
     │   ├── 📄 nearmiss_lr.png
     ├── 📄 after_anomaly_removal.png
     ├── 📄 after_null_data_removal.png
-    ├── 📄 backorder_distributiom.png
+    ├── 📄 backorder_distribution1.png
     ├── 📄 backorder_distribution2.png
     ├── 📄 before_anomaly_removal.png
     ├── 📄 before_null_data_removal.png
